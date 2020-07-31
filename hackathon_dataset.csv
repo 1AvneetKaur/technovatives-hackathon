@@ -1,0 +1,201 @@
+Age,Gender,Entry No.,Customer ID,Product Name,hr(pm) ,Day,Rack No.
+19,Male,1,15634602,turkey,2,Monday,39
+21,Male,2,15647311,tomatoes,1,Tuesday,81
+20,Female,3,15619304,spaghetti,8,Wednesday,6
+23,Female,4,15701354,mineral water,1,Wednesday,77
+31,Female,5,15737888,black tea,2,Friday,40
+22,Female,6,15574012,salmon,8,Saturday,76
+35,Female,7,15592531,eggs,7,Sunday,6
+23,Female,8,15656148,chicken,4,Monday,39
+64,Male,9,15792365,milk,4,Tuesday,3
+30,Female,10,15592389,burgers,2,Wednesday,72
+67,Male,11,15767821,butter,6,Thursday,14
+35,Female,12,15737173,turkey,3,Friday,39
+58,Female,13,15632264,mineral water,10,Saturday,77
+24,Female,14,15691483,low fat yogurt,5,Sunday,78
+37,Male,15,15600882,whole wheat pasta,7,Monday,13
+22,Male,16,15643966,soup,3,Tuesday,13
+35,Female,17,15737452,frozen vegetables,1,Sunday,35
+20,Male,18,15788218,french fries,9,Sunday,66
+52,Male,19,15661507,eggs,6,Sunday,6
+35,Female,20,15568982,cookies,6,Sunday,23
+35,Male,21,15577657,turkey,8,Sunday,39
+25,Male,22,15597945,spaghetti,8,Monday,6
+46,Female,23,15699309,cream,4,Tuesday,5
+31,Male,24,15725737,olive oil,3,Wednesday,14
+54,Female,25,15625047,olive oil,5,Thursday,14
+29,Male,26,15738191,pancakes,3,Friday,32
+45,Female,27,15736816,mineral water,2,Saturday,77
+35,Male,28,15700772,grated cheese,9,Sunday,16
+40,Female,29,15728693,eggs,3,Sunday,6
+23,Female,30,15656300,shrimp,1,Sunday,17
+60,Male,31,15589475,bread,3,Saturday,14
+21,Female,32,15706552,french fries,7,Saturday,66
+53,Male,33,15750181,butter,9,Saturday,14
+18,Male,34,15659428,french fries,6,Saturday,66
+49,Female,35,15732963,nonfat milk,9,Sunday,3
+21,Female,36,15794171,burgers,0,Sunday,72
+42,Female,37,15788448,herb & pepper,3,Sunday,18
+30,Female,38,15729599,fresh tuna,7,Sunday,73
+36,Female,39,15717426,tomato sauce,7,Sunday,81
+20,Female,40,15585768,parmesan cheese,6,Sunday,16
+65,Female,41,15619360,frozen vegetables,4,Sunday,35
+24,Male,42,15738148,turkey,8,Sunday,39
+48,Male,43,15687946,pepper,2,Sunday,36
+31,Female,44,15755196,shrimp,2,Sunday,17
+49,Female,45,15684171,wine,5,Sunday,28
+24,Female,46,15754849,burgers,4,Thursday,72
+50,Female,47,15602280,millk,9,Friday,55
+27,Female,48,15771573,oil,9,Saturday,14
+29,Female,49,15766205,cookies,2,Sunday,23
+31,Female,50,15771873,low fat yogurt,2,Monday,78
+49,Female,51,15616550,tomatoes,10,Tuesday,81
+33,Male,52,15768193,green tea,5,Wednesday,40
+31,Female,53,15683553,mushroom cream sauce,5,Thursday,5
+59,Male,54,15702298,pepper,8,Friday,60
+50,Female,55,15569590,bread,1,Saturday,14
+47,Male,56,15760861,vegetables mix,1,Sunday,35
+51,Female,57,15630053,mineral water,5,Monday,50
+69,Male,58,15647091,avocado,2,Tuesday,46
+27,Female,59,15623944,red wine,4,Wednesday,28
+53,Male,60,15804771,strawberries,4,Sunday,46
+70,Male,61,15651280,bread ,5,Sunday,14
+19,Male,62,15773469,energy bar,9,Sunday,55
+67,Female,63,15702014,mineral water,1,Sunday,77
+54,Female,64,15751208,cookies,8,Sunday,23
+63,Male,65,15592461,cream,4,Sunday,5
+18,Male,66,15789484,mineral water,6,Sunday,77
+43,Female,67,15696061,green tea,1,Saturday,40
+68,Female,68,15641582,mineral water,10,Saturday,48
+19,Male,69,15638424,herb & pepper,5,Saturday,59
+32,Female,70,15755648,chocolate,8,Sunday,55
+70,Male,71,15703793,green tea,2,Sunday,40
+47,Female,72,15620344,herb & pepper,6,Sunday,42
+60,Female,73,15812518,mineral water,3,Wednesday,77
+60,Female,74,15779052,frozen vegetables,5,Thursday,35
+59,Male,75,15770811,light mayo,9,Friday,5
+26,Male,76,15780961,burgers,1,Friday,72
+45,Female,77,15614049,meatballs,8,Friday,76
+40,Male,78,15662085,burgers,9,Friday,72
+23,Female,79,15575185,eggs,5,Tuesday,6
+49,Female,80,15803136,mineral water,10,Saturday,77
+57,Male,81,15706021,green tea,1,Saturday,40
+38,Male,82,15663706,cooking oil,2,Saturday,14
+67,Male,83,15641732,vegetables mix,3,Saturday,35
+46,Female,84,15701164,cookies,4,Sunday,23
+21,Female,85,15738751,green tea,4,Monday,40
+48,Male,86,15805254,frozen vegetables,10,Tuesday,35
+55,Female,87,15762418,fruits,3,Wednesday,35
+22,Female,88,15625759,chocolate,9,Thursday,55
+34,Female,89,15622897,ground beef,4,Thursday,76
+50,Female,90,15767954,fruits,3,Thursday,35
+68,Female,91,15757535,vegetables mix,5,Sunday,35
+18,Male,92,15731511,turkey,7,Monday,39
+48,Male,93,15809248,shrimp,10,Tuesday,17
+40,Female,94,15640635,cake,8,Saturday,32
+32,Female,95,15676966,grated cheese,4,Saturday,16
+24,Male,96,15699461,candy bars,10,Saturday,55
+47,Female,97,15738721,cake,9,Saturday,32
+27,Female,98,15693683,turkey,8,Sunday,39
+48,Male,99,15604348,tomatoes,8,Monday,81
+20,Male,100,15633059,herb & pepper,9,Tuesday,18
+23,Female,101,15808582,mineral water,6,Wednesday,77
+49,Female,102,15743192,ground beef,6,Thursday,76
+67,Male,103,15580146,bread,9,Friday,14
+26,Male,104,15776605,mineral water,7,Saturday,77
+49,Male,105,15804919,butter,1,Sunday,14
+21,Female,106,15613854,mineral water,4,Monday,77
+66,Female,107,15599195,pickles,1,Tuesday,35
+54,Male,108,15812878,milk,2,Wednesday,3
+68,Male,109,15602312,milk,5,Thursday,3
+66,Male,110,15744689,bread,9,Friday,14
+65,Male,111,15803526,cookies,3,Saturday,23
+19,Female,112,15665790,cookies,7,Sunday,23
+38,Female,113,15715951,eggs,2,Monday,6
+19,Male,114,15591100,herb & pepper,9,Tuesday,18
+18,Female,115,15609618,shrimp,9,Sunday,18
+19,Female,116,15675522,eggs,9,Sunday,6
+63,Female,117,15705512,yoghurt,6,Sunday,78
+49,Female,118,15698028,milk,1,Sunday,3
+51,Female,119,15661670,mineral water,8,Sunday,77
+50,Female,120,15600781,tomatoes,4,Monday,81
+27,Male,121,15682472,frozen vegetables,8,Tuesday,35
+38,Female,122,15580203,dessert wine,6,Wednesday,28
+40,Female,123,15690673,shrimp,6,Thursday,17
+39,Male,124,15760085,turkey,10,Friday,39
+23,Female,125,15779659,black tea,3,Monday,40
+31,Female,126,15627360,fresh tuna,9,Monday,76
+43,Male,127,15671137,mineral water,1,Monday,77
+40,Male,128,15782688,spaghetti,4,Tuesday,6
+59,Male,129,15575492,bread,7,Wednesday,14
+38,Male,130,15591607,milk,9,Thursday,3
+47,Male,131,15740404,vegetables mix,3,Friday,35
+39,Male,132,15718369,grated cheese,9,Saturday,16
+25,Female,133,15677871,eggs,9,Sunday,6
+31,Female,134,15642004,cooking oil,1,Monday,14
+20,Male,135,15712543,ground beef,7,Tuesday,76
+29,Female,136,15584518,tomatoes,5,Tuesday,81
+44,Female,137,15802381,herb & pepper,5,Tuesday,18
+32,Male,138,15610156,tomatoes,2,Tuesday,73
+19,Male,139,15594408,chocolate,2,Tuesday,55
+35,Female,140,15640905,mineral water,1,Tuesday,77
+57,Female,141,15698932,vegetables mix,10,Tuesday,35
+32,Male,142,15724944,burgers,7,Tuesday,72
+28,Female,143,15628145,spaghetti,5,Wednesday,6
+32,Female,144,15713483,frozen vegetables,2,Thursday,35
+25,Male,145,15612350,burgers,5,Friday,72
+28,Male,146,15800703,red wine,5,Saturday,28
+48,Male,147,15705707,mineral water,8,Sunday,77
+32,Female,148,15754105,shrimp,5,Sunday,17
+34,Female,149,15703264,mineral water,9,Sunday,77
+34,Male,150,15794413,turkey,5,Sunday,39
+43,Male,151,15650237,honey,7,Sunday,22
+39,Male,152,15759618,almonds,9,Sunday,22
+44,Female,153,15811589,honey,8,Sunday,22
+38,Female,154,15689044,milk,2,Sunday,3
+47,Female,155,15709368,cake,6,Sunday,32
+27,Female,156,15679145,eggs,7,Tuesday,6
+37,Male,157,15655007,shrimp,7,Wednesday,17
+30,Female,158,15623595,frozen vegetables,2,Thursday,35
+34,Male,159,15589975,french wine,6,Friday,28
+30,Female,160,15804017,olive oil,4,Saturday,14
+56,Female,161,15692132,cake,6,Sunday,32
+29,Female,162,15641122,pepper,2,Monday,18
+19,Male,163,15630910,frozen vegetables,7,Tuesday,35
+31,Female,164,15680772,spaghetti,2,Wednesday,6
+50,Male,165,15658929,milk,6,Thursday,3
+36,Female,166,15585388,pancakes,9,Friday,32
+42,Male,167,15724623,french fries,7,Saturday,66
+33,Female,168,15588537,milk,9,Saturday,3
+36,Female,169,15574692,tomatoes,2,Saturday,81
+32,Male,170,15611325,chocolate,9,Tuesday,55
+40,Male,171,15587562,escalope,4,Wednesday,12
+28,Male,172,15613172,salmon,5,Thursday,76
+36,Male,173,15651022,protein bar,10,Friday,55
+36,Male,174,15586310,chocolate,4,Saturday,55
+52,Female,175,15625524,bread,5,Sunday,14
+30,Female,176,15755209,milk,7,Sunday,3
+58,Male,177,15645248,whole wheat flour,7,Sunday,13
+27,Male,178,15790355,frozen vegetables,5,Sunday,35
+59,Male,179,15762615,mineral water,8,Sunday,77
+35,Male,180,15625426,mineral water,3,Friday,77
+37,Female,181,15716334,butter,2,Saturday,14
+32,Female,182,15789669,mineral water,2,Sunday,86
+46,Male,183,15621075,ham,1,Monday,15
+29,Female,184,15810845,herb & pepper,2,Tuesday,88
+41,Female,185,15719377,milk,4,Wednesday,3
+30,Male,186,15654506,cookies,8,Thursday,23
+54,Female,187,15771977,butter,1,Friday,14
+28,Male,188,15708710,mineral water,8,Saturday,77
+41,Female,189,15726676,mineral water,5,Sunday,77
+36,Female,190,15587421,cookies,7,Friday,23
+34,Female,191,15726931,frozen vegetables,8,Friday,35
+32,Female,192,15771086,pepper,3,Friday,18
+33,Male,193,15756850,mineral water,1,Friday,77
+38,Female,194,15702741,spaghetti,8,Friday,6
+47,Female,195,15679200,shrimp,9,Saturday,17
+35,Female,196,15594815,mineral water,3,Sunday,77
+45,Female,197,15635905,butter,6,Monday,14
+32,Male,198,15777892,mineral water,3,Tuesday,77
+32,Male,199,15656176,ham,10,Wednesday,15
+30,Male,200,15811127,herb & pepper,6,Sunday,18
